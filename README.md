@@ -2,7 +2,9 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/wevertonmonteiroc/wevertonmonteiroc/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ solve big challenges using technology.
+
+From mobile development using Swift to frontend development using Javascript, I am passionate about discovering new things and using them to create high quality solutions. Today, I'm an entry-level IOS mobile developer focused on IOS development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=wevertonmonteiroc&theme=radical&mode=weekly" />
@@ -32,13 +34,8 @@
 
 #### Studying in this moment:
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-14354C?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 
-#### Databases:
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
